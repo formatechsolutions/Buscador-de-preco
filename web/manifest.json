@@ -1,6 +1,6 @@
 {
-    "name": "busca_preco",
-    "short_name": "busca_preco",
+    "name": "buscapreco",
+    "short_name": "buscapreco",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

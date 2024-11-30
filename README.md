@@ -1,4 +1,4 @@
-# busca_preco
+# buscapreco
 
 A new Flutter project.
 
